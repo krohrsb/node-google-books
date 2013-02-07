@@ -28,9 +28,6 @@ exports.awesome = {
     },
     'no args': function (test) {
         'use strict';
-        test.expect(1);
-        // tests here
-        test.equal(google_books.awesome(), 'awesome', 'should be awesome.');
         test.done();
     }
 };
