@@ -7,9 +7,8 @@ Install the module with: `npm install google-books`
 
 ```javascript
 var google_books = require('google-books');
-google_books.awesome(); // "awesome"
 ```
-
+_(Coming soon)_
 ## Documentation
 _(Coming soon)_
 
