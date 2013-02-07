@@ -1,0 +1,34 @@
+{
+  "name": "google-books",
+  "description": "A NodeJS Google Books API Wrapper",
+  "version": "0.1.0",
+  "homepage": "https://github.com/blackbarn/google-books",
+  "author": {
+    "name": "Kyle Brown",
+    "email": "blackbarn@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blackbarn/google-books.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blackbarn/google-books/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/blackbarn/google-books/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/google-books",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.16"
+  },
+  "keywords": []
+}
