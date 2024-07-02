@@ -36,7 +36,7 @@
     "async": "~0.2.3",
     "underscore": "~1.4.4",
     "validator": "~0.4.23",
-    "request": "~2.12.0",
+    "request": "~2.88.2",
     "memoizee": "~0.2.3"
   }
 }
